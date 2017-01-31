@@ -1,6 +1,6 @@
 # hello-world
-just an exercise repository
+
 Hiii there...
-I´m Eli
+I´m Eli, 
 I´m a plastic artist from Chile searching and discovering new ways to create and share my work and ideas...
 I wanna make some interesting shiiiit man xd
